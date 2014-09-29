@@ -4,6 +4,7 @@ csons = []
 errors = []
 
 Dir.glob('index/**/*.cson') { |c| csons << c.sub(/\.cson$/, '.json') }
+csons << 'reasons.json'
 
 csons = csons.sort
 

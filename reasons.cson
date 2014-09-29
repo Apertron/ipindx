@@ -1,0 +1,20 @@
+{
+  dos:
+    info: "Denial of Service"
+
+  scanning:
+    info: "Scanning for open/ports vulnerability"
+    parts: [
+      "HTTP"
+    ]
+
+  logins:
+    info: "Attempting to login to as a user while unauthorized"
+    parts: [
+      "HTTP"
+      "SSH"
+      "SMTP"
+      "IMAP"
+      "POP3"
+    ]
+}
