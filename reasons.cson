@@ -5,15 +5,17 @@
   scanning:
     info: "Scanning for open/ports vulnerability"
     parts: [
-      "HTTP"
+      http: {
+        info: "Scanning HTTP ports for vulnerabilities"
+      }
     ]
 
   logins:
     info: "Attempting to login to as a user while unauthorized"
     parts: [
-      "HTTP"
-      "SSH"
-      "SMTP"
+      http: "Attempting to login to a user while unauthorized on a web service"
+      ssh: "Attempting to login to a user while unauthorized on an SSH server"
+      smtp: "Attempting to login to a user while unauthorized on a SMTP srverlp"
       "IMAP"
       "POP3"
     ]
