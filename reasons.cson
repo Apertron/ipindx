@@ -19,4 +19,10 @@
       "IMAP"
       "POP3"
     ]
+
+  malware_dist:
+    info: "Distributing malware"
+    parts: [
+      http: "Distibuting malware via HTTP."
+    ]
 }

