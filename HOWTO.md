@@ -29,7 +29,7 @@ Each key is on the top level of the CSON document, and then under that key is th
 ```
 
 
-## xxx-xxx-xxx-xxx (dash delimited IP address)
+## index/xxx-xxx-xxx-xxx.cson (dash delimited IP address)
 
 
 1. First key is `ip`, this indicates the IP address explained within the document.
