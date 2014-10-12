@@ -6,3 +6,12 @@
 # Automation
 
 I hope to automate this in the near future.
+
+# Wishing to be delisted?
+
+Please post to the *delisting* mailing list at <ipindx-delisting@lists.apertron.net>.
+
+# Bug reports/concerns?
+
+Please post to the *generic* mailing list at <ipindx@lists.apertron.net>.
+
