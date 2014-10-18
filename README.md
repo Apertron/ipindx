@@ -9,9 +9,9 @@ I hope to automate this in the near future.
 
 # Wishing to be delisted?
 
-Please post to the *delisting* mailing list at <ipindx-delisting@lists.apertron.net>.
+Please post to http://f.apertron.net/c/ipindx/delisting
 
 # Bug reports/concerns?
 
-Please post to the *generic* mailing list at <ipindx@lists.apertron.net>.
+Please post to http://f.apertron.net/c/ipindx
 
