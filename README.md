@@ -13,5 +13,8 @@ Please post to http://f.apertron.net/c/ipindx/delisting
 
 # Bug reports/concerns?
 
-Please post to http://f.apertron.net/c/ipindx
+Please submit to http://b.apertron.net under the "ipindx" project.
 
+# Adding an IP yourself.
+
+Please follow HOWTO.md.
