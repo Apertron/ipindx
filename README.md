@@ -15,6 +15,8 @@ Please post to http://f.apertron.net/c/ipindx/delisting
 
 Please submit to http://b.apertron.net under the "ipindx" project.
 
+For general discussion, please go to http://f.apertron.net
+
 # Adding an IP yourself.
 
 Please follow HOWTO.md.
