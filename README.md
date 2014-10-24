@@ -3,6 +3,11 @@
 - Each IP is located under the `IPs` directory with the naming scheme `IP.{cson,md}` where `cson` is the machine readable information of the IP (using CSON, which compiles to JSON), and `md` is a detailed description of the IP.
 
 
+# Contributing
+
+Please see http://notes.apertron.net/ContributingToApertronSoftware.pdf.
+
+
 # Automation
 
 I hope to automate this in the near future.
@@ -15,7 +20,7 @@ Please post to http://f.apertron.net/c/ipindx/delisting
 
 Please submit to http://b.apertron.net under the "ipindx" project.
 
-For general discussion, please go to http://f.apertron.net
+For general discussion, please go to http://f.apertron.net/c/ipindx
 
 # Adding an IP yourself.
 
