@@ -14,13 +14,13 @@ I hope to automate this in the near future.
 
 # Wishing to be delisted?
 
-Please post to http://f.apertron.net/c/ipindx/delisting
+Please post to http://f.apertron.net/c/ipindx/delisting (Discourse) or if you prefer email, post to the *delisting* mailing list at <ipindx-delisting@lists.apertron.net>.
 
 # Bug reports/concerns?
 
 Please submit to http://b.apertron.net under the "ipindx" project.
 
-For general discussion, please go to http://f.apertron.net/c/ipindx
+For general discussion, please go to http://f.apertron.net/c/ipindx or if you prefer email, post to the *general* mailing list at <ipindx@lists.apertron.net>
 
 # Adding an IP yourself.
 
